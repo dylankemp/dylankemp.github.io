@@ -90,3 +90,150 @@ error: src refspec main does not match any
 error: failed to push some refs to 'github.com:dylankemp/dylankemp.github.io.git'
 
 
+----------
+
+Mon Jan 17 2022 18:54:39 GMT-0800 (Pacific Standard Time)
+
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+
+
+----------
+
+Mon Jan 17 2022 19:05:35 GMT-0800 (Pacific Standard Time)
+
+remote: warning: File resources/app.asar is 85.45 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+
+
+----------
+
+Mon Jan 17 2022 19:05:35 GMT-0800 (Pacific Standard Time)
+
+remote: error: Trace: 4d1897cd5dceed2985e7e74487d4590fbcf6a969e80c50684e6548fa810272fe        
+remote: error: See http://git.io/iEPt8g for more information.        
+remote: error: File Bootstrap Studio.exe is 133.24 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+
+
+----------
+
+Mon Jan 17 2022 19:05:35 GMT-0800 (Pacific Standard Time)
+
+To github.com:dylankemp/dylankemp.github.io.git
+ ! [remote rejected] main (pre-receive hook declined)
+ ! [remote rejected] HEAD -> master (pre-receive hook declined)
+error: failed to push some refs to 'github.com:dylankemp/dylankemp.github.io.git'
+
+
+----------
+
+Mon Jan 17 2022 19:09:46 GMT-0800 (Pacific Standard Time)
+
+remote: warning: File resources/app.asar is 85.45 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+
+
+----------
+
+Mon Jan 17 2022 19:09:46 GMT-0800 (Pacific Standard Time)
+
+remote: error: Trace: 53f122389fc737d94d3df77fe8e174ebbfd48a32641ebd08ef485e23da8cb6ea        
+remote: error: See http://git.io/iEPt8g for more information.        
+remote: error: File Bootstrap Studio.exe is 133.24 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+
+
+----------
+
+Mon Jan 17 2022 19:09:46 GMT-0800 (Pacific Standard Time)
+
+To github.com:dylankemp/dylankemp.github.io.git
+ ! [remote rejected] main (pre-receive hook declined)
+ ! [remote rejected] HEAD -> master (pre-receive hook declined)
+error: failed to push some refs to 'github.com:dylankemp/dylankemp.github.io.git'
+
+
+----------
+
+Mon Jan 17 2022 19:11:24 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in about.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Mon Jan 17 2022 19:11:24 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in assets/bootstrap/css/bootstrap.min.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Mon Jan 17 2022 19:11:24 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in assets/bootstrap/js/bootstrap.min.js.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Mon Jan 17 2022 19:11:24 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in assets/js/current-day.js.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Mon Jan 17 2022 19:11:24 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in error.log.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Mon Jan 17 2022 19:11:24 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Mon Jan 17 2022 19:11:24 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in products.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in store.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Mon Jan 17 2022 19:11:24 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in about.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Mon Jan 17 2022 19:11:24 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in assets/bootstrap/css/bootstrap.min.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Mon Jan 17 2022 19:11:24 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in assets/bootstrap/js/bootstrap.min.js.
+The file will have its original line endings in your working directory
+
+
